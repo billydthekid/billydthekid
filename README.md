@@ -16,6 +16,6 @@
 
 <p align="left">- Lang: JS / TS  <br>- Framework: Next.js  <br>- Styling: TailwindCSS & shadcn/ui  </p>
 
-###
+
 
 ![Snake animation](https://raw.githubusercontent.com/billydthekid/billydthekid/output/github-contribution-grid-snake.svg)###
