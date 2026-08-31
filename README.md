@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 building web stuff & fixing bugs  <br>🚀 currently learning full-stack development  <br>🎯 aiming to become a solid developer</p>
+<p align="left">👨‍💻 building web stuff  <br>🚀 currently learning full-stack development  <br>🎯 aiming to become a solid developer</p>
 
 ###
 
